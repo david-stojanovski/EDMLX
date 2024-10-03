@@ -2,7 +2,7 @@
 
 <img src='./assets/tikz_unet.svg'>  
 
-[David Stojanovski](https://scholar.google.com/citations?user=6A_chPAAAAAJ&hl=en), [Mariana da Silva]([https://scholar.google.com/citations?hl=en&user=6DkZyrXMyKEC](https://scholar.google.com/citations?user=0JWm1t0AAAAJ&hl=en)), [Pablo Lamata](https://scholar.google.com/citations?hl=en&user=H98n1tsAAAAJ), [Arian Beqiri](https://scholar.google.com/citations?hl=en&user=osD0r24AAAAJ&view_op=list_works&sortby=pubdate), [Alberto Gomez](https://scholar.google.com/citations?hl=en&user=T4fP_swAAAAJ&view_op=list_works&sortby=pubdate)
+[David Stojanovski](https://scholar.google.com/citations?user=6A_chPAAAAAJ&hl=en), [Mariana da Silva](https://scholar.google.com/citations?user=0JWm1t0AAAAJ&hl=en), [Pablo Lamata](https://scholar.google.com/citations?hl=en&user=H98n1tsAAAAJ), [Arian Beqiri](https://scholar.google.com/citations?hl=en&user=osD0r24AAAAJ&view_op=list_works&sortby=pubdate), [Alberto Gomez](https://scholar.google.com/citations?hl=en&user=T4fP_swAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Data and pretrained models
 
