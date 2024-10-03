@@ -8,7 +8,7 @@ David Stojanovski, Mariana da Silva, Pablo Lamata, Arian Beqiri, Alberto Gomez
 
 
 
-The data and models can be downloaded [here](https://zenodo.org/records/7921055#.ZGYS_9LMLmE).
+The data and models can be downloaded [here](https://zenodo.org/records/13887046).
 
 Alternatively the data can be directly downloaded using the following commands via
 terminal:
